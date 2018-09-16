@@ -1,0 +1,9 @@
+Package: com.midnightchips.doubletake
+Name: DoubleTake
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Check who you are messaging.
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
