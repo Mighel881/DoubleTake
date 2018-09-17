@@ -1,1 +1,1 @@
-{ Filter = { Bundles = ( "com.apple.MobileSMS" ); }; }
+{ Filter = { Bundles = ( "com.apple.MobileSMS", "com.facebook.Messenger", "com.burbn.instagram", "com.atebits.Tweetie2"); }; }
